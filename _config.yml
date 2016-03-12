@@ -4,7 +4,7 @@ description: 'Software development under High Tropicality Conditions'
 url: 'http://dvddarias.github.io'
 baseurl: '/'
 google_analytics: 'UA-74997482-1'
-# disqus_shortname: 'your-disqus-name'
+disqus_shortname: 'dvdarias'
 
 author:
   name: 'David Darias'

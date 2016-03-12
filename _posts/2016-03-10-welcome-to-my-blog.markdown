@@ -1,25 +1,14 @@
 ---
-title:  "Welcome to Jekyll!"
-date:   2016-01-08 15:04:23
-categories: [jekyll]
-tags: [jekyll]
+title:  "Welcome to my Blog!"
+date:   2016-03-10 3:48:23
+categories: [general]
+tags: []
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve --watch`, which launches a web server and auto-regenerates your site when a file is updated.
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+Hi, right now you are reading my first blog post!! I thought it would be a good idea to introduce myself in this one so here you go.
+My name is David Darias, I graduated around two years ago from Computer Science at Havana University in Cuba. Currently I am an assistant professor at the university on the topics of Computer Architecture, Machine Programming, Computer Vision and Game Development.
 
-Jekyll also offers powerful support for code snippets:
+With this blog I want to share my experiences as a cuban software developer and a teacher at the faculty of Computer Science. I will try to cast a light over the probably-bigger-than-you-think cuban tech community and its intricate details. If you don't think i am right here are some ballpark numbers for you: just in Havana every year we graduate 150 Computer Science majors at Havana University, around 200 Software Engineers at CUAJE University and more than 1000 at the University of Informatics Science. Taking in to account that this numbers haven't changed in the last 10 years and that we are a small country, the amount of software developers is not negligible.
 
-``` ruby
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-```
+Stay tunned for more...
 
-Check out the [Jekyll docs][jekyll] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll’s dedicated Help repository][jekyll-help].
-
-[jekyll]:      http://jekyllrb.com
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-help]: https://github.com/jekyll/jekyll-help

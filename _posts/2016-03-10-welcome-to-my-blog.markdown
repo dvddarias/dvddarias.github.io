@@ -11,7 +11,7 @@ My name is David Darias, I graduated around two years ago from Computer Science 
 
 With this blog I want to share my experiences as a cuban software developer and a teacher at the faculty of Computer Science. I will try to cast a light over the probably-bigger-than-you-think cuban tech community and its intricate details. If you don't think i am right, here are some ballpark numbers for you: just in Havana every year we graduate 150 Computer Science majors at Havana University, around 200 Software Engineers at CUAJE University and more than 1000 at the University of Informatics Science. Taking in to account that this numbers haven't changed in the last 10 years and that we are a small island, the percent of software developers is bigger than most countries.
 
-This situation has developed a tech community that, due to connectivity limitations, is completely unknown to the rest of the world. It is really baffling to see a developer from Google in Cuba and asking me if we used computers from the 80s or if i knew what Python was. I know that this is what many people think, mainly because there is a complete silence coming from us. Well I'll do my best to change it.
+This situation has developed a tech community that, due to connectivity limitations, is completely unknown to the rest of the world. It is really baffling to see a developer from Google in Cuba and asking me if we used computers from the 80s or if i knew what Python was. I know that this is what many people think, mainly because there is a complete silence coming from us. Well... I'll do my best to change it.
 
-Stay tunned for more...
+Stay tunned for more.
 

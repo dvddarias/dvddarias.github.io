@@ -15,7 +15,7 @@ This situation has developed a tech community that, due to connectivity limitati
 
 Stay tunned for more.
 
-PD: I have been asked what does the term _High Tropicality Conditions_ on the blog title means. This is a term coined by the professor and colleague [Ernesto Altshuler] that refers to the lack of resources and outdated work environments that is commonly found in Latin American countries like Cuba. In response to this conditions most cubans have developed the ability to tackle modern problems relying on modest material means and uncommon inventiveness.
+PD: I have been asked what does the term _High Tropicality Conditions_ on the blog title means. This is a term coined by the professor and colleague [Ernesto Altshuler] that refers to the lack of resources and outdated work environments that is commonly found in Latin American countries like Cuba. In response to this conditions cubans have developed the ability to tackle modern problems relying on modest material means and uncommon inventiveness.
 
 [Havana University]: http://www.uh.cu/
 [CUAJE University]: http://cujae.edu.cu/
